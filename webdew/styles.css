@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(52	59	41);
+}
+
+h1{
+    font-family: 'Kelly Slab', cursive;
+}
+
+#font1{
+    font-family: 'Rubik Iso', cursive;
+}
+
+
+#font3{
+    font-family: 'Rubik Glitch', cursive;
+}
+
+#font4{
+    font-family: 'Jura', sans-serif;
+}
+
+button{
+    font-family: 'Jura', sans-serif;
+    background-color: rgb(62	95	138);
+    color: rgb(255	176	46);
+}
+
+#sr{
+    color: rgb(0, 0, 0);
+}
