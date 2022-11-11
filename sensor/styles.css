@@ -1,0 +1,91 @@
+body {
+    background-color: white;
+}
+
+h1{
+    font-family: 'Kelly Slab', cursive;
+}
+
+h2{
+    font-family: 'Kelly Slab', cursive;
+}
+
+#font1{
+    font-family: 'Rubik Iso', cursive;
+}
+
+
+#font3{
+    font-family: 'Rubik Glitch', cursive;
+}
+
+#font4{
+    font-family: 'Jura', sans-serif;
+}
+
+button{
+    font-family: 'Jura', sans-serif;
+    background-color: rgb(62	95	138);
+    color: rgb(255	176	46);
+}
+
+#sr{
+    color: rgb(0, 0, 0);
+}
+
+.container {
+    background-color: wheat;
+    width: 50%;
+    height: 100px;
+    padding-top:20;
+    padding-bottom:20;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.inputs {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: rgb(106	90	205);
+    border-radius: 100px 0px 100px 0px;
+    -moz-border-radius: 100px 0px 100px 0px;
+    -webkit-border-radius: 100px 0px 100px 0px;
+    
+}
+
+.outputs {
+    background-color: rgb(255	3	62);
+    width: 25%;
+    border-radius: 0px 100px 0px 100px;
+    -moz-border-radius: 0px 100px 0px 100px;
+    -webkit-border-radius: 0px 100px 0px 100px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.button1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 244px;
+    height: 111px;
+    left: 465px;
+    top: 573px;
+
+    background: #CCCCFF;
+    border: 14px solid #464451;
+    box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 98px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
